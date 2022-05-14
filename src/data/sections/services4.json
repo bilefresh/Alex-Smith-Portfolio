@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Photography",
+        "icon": "pe-7s-camera",
+        "content": "Capturing your favorite moments in an exquisite manner."
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "icon": "pe-7s-monitor",
+      "content": " Developing fluid, responsive and beautiful websites."
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "icon": "pe-7s-magic-wand",
+      "content": "Turning beautiful innovative ideas into designs ."
+    }
+]

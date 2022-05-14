@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Happy Clients",
+    "value": "54"
+  },
+  {
+	 "id": 2,
+    "icon": "pe-7s-camera",
+    "txt": "Moments Captured",
+    "value": "375"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-portfolio",
+    "txt": "Completed Projects",
+    "value": "17"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-magic-wand",
+    "txt": "Mockups Designed",
+    "value": "20"
+  }
+]
