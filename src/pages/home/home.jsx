@@ -11,6 +11,7 @@ import LightTheme from "../../layouts/Light";
 import ContactSection from "../../components/Contact-section";
 import ClientsBrands from "../../components/Clients-brands";
 import appData from "../../data/app.json";
+import Head from "next/head";
 
 const Homepage2 = () => {
   const navbarRef = React.useRef(null);
@@ -35,6 +36,9 @@ const Homepage2 = () => {
 
   return (
     <LightTheme>
+	<Head>
+		<title>Alex Smith</title>
+	</Head>
       <Navbar nr={navbarRef} lr={logoRef} />
       <IntroTxt />
       <AboutWithSkills />
